@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <hr />
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+        <title>Riley Dixson</title>
+        <meta name="descrpition" content="Single Page CV"/>
+        <meta name="keywords" content="Full Stack Developer, HTML, Resume, CV"/>
+        <meta name="author" content="Riley Dixson">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:title" content="Riley Dixson Resume"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:descrpition" content="Resume for Riley Dixson"/>
+        <link rel="icon" type="image/x-icon" href="android-chrome-192x192.png">
+    </head>
+    <body>
+        <section class="main">
+            <header class="title">
+                <h1>Riley Dixson</h1>
+            </header>
+
+        <section class="personal-info">
+            <h4>Junior Frontend Developer</h4>
+            <h4>501593</h4>
+            <h5>riley.dixson</h5>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <p>HTML, Accessibility, Web Design, Troubleshooting, Presentation</p>
+        </section>
+
+        <section class="eduction">
+            <h2>Eduction</h2>
+            <h3>UALR, Arkansas - Associates of Applied Sciences</h3>
+                <p>Presidents list 4 out of 5 semesters attended.</p>
+        </section>
+
+        <section class="experience">
+            <h2>Experience</h2>
+            <h3>UAMS Little Rock - IT Onsite Support</h3>
+            <h4>Oct 2024- Present</h4>
+            <ul>
+                <li>Nothing yet</li>
+            </ul>
+            <p>Skills: Troubleshooting, customer service, scripting.</p>
+        </section>
+
+        <section class="across the internet">
+            <h2>Across the Internet</h2>
+            <a href="https://github.com/HiImKQ">Find me here!</a>
+        </section>
+        </section>
+    </body>
+</html>
